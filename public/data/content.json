@@ -2,48 +2,43 @@
 {
   "weblit-Navigation": {
     "related": "weblit-Privacy",
-    "intro": "How do you get around the web? Browsers are the software we use to explore the web&mdash;they can quickly direct us exactly where we want to go, or can take us on a winding path to serendipitously discover new interests. Improving web navigation by customizing your browser with add-ons is a wonderful way to take control of your web experience.",
+    "intro": "<strong>How do you get around the web?</strong> Browsers are the software we use to explore the web. They can quickly direct us exactly where we want to go, or can take us on a winding path to serendipitously discover new interests. Sharpening your navigation skills can help you browse faster, make use of speedy new short-cuts and add-ons, and get more from the time you spend on the web each day.",
+",
     "icon": "fa-map-marker",
     "discover": [
       {
-        "title": "Firefox Browser",
+        "title": "What's a web browser?",
         "links": [
-          "Find out about the different parts of a Firefox browser with <a href='https://support.mozilla.org/en-US/products/firefox/get-started/tips'>these tips and tricks</a>."
+          "<strong>It's one of the most important pieces of software on your computer</strong>. But many people don't even know what it is! <a href='https://openmatt.makes.org/thimble/MTYwOTEwNTQwOA==/learn-about-your-web-browser'>This page quickly explains what browsers are and why they matter.</a>"
         ]
       },
       {
-        "title": "Resize your browser",
+        "title": "Tips and tricks",
         "links": [
-          "Learn the size of your browser window on this handy <a href='http://whatsmybrowsersize.com/'>&ldquo;What&rsquo;s My Browser Size&rdquo; tool</a>"
+          "<strong><a href='https://support.mozilla.org/en-US/products/firefox/get-started/tips">Level up your browser skills</a> </strong>with these tips and tricks for Firefox. Keyboard and mouse shortcuts, automating common searches, organizing tabs and more. (Here's similar tips for <a href='https://www.google.com/intl/en/chrome/browser/signin.html'>Chrome</a>, <a href='http://windows.microsoft.com/en-ca/internet-explorer/products/ie-9/tips'>Internet Explorer</a>, <a href='http://support.apple.com/kb/ht5364'>Safari</a> and<a href='http://fedoraproject.org/en/get-help'> Fedora</a>.)"
         ]
       },
       {
-        "title": "Firefox is Free",
+        "title": "Watch the evolution of the web",
         "links": [
-          "Remix this <a href='https://mozilla.makes.org/thimble/firefox-is-free-learn-about-your-web-browser'>&ldquo;Firefox is Free&rdquo; webpage</a> by modifying it for your own chosen browser."
+          "<strong>The web is like a living, breathing ecosystem</strong>. This <a href='http://www.evolutionoftheweb.com/'>beautiful interactive timeline</a> shows how much it has grown and changed since its birth in the early 1990s."
         ]
       },
       {
-        "title": "&ldquo;The Filter Bubble&rdquo;",
+        "title": "Navigating &ldquo;filter bubbles&rdquo;",
         "links": [
-          "Watch <a href='http://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles#t-36384'>Eli Pariser&rsquo;s TED Talk &ldquo;The Filter Bubble&rdquo;</a>to learn more about online filtering."
+          "<strong>Are you stuck in a filter bubble?</strong> How do you know what <em>you're</em> seeing on the web is the same as what others are seeing? Watch <a href='http://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles#t-36384'>Eli Pariser’s TED Talk, “<strong>The Filter Bubble</strong>,” </a>to learn more about online filtering."
         ]
       },
-      {
-        "title": "Evolution of the Web",
-        "links": [
-          "Explore <a href='http://www.evolutionoftheweb.com/'>an interactive timeline of the web</a>."
-        ]
-      }
     ],
     "make": [
       {
-        "title": "Firefox Add-Ons",
-        "description": "<a href='https://addons.mozilla.org/en-US/firefox/?application=firefox'>Trick out your Firefox Browser</a> with Add-ons "
+        "title": "Supercharge your browser",
+        "description": "<strong>Add-ons for your browser can help you navigate more easily </strong>-- plus simplify tasks and unlock new powers. <a href='https://addons.mozilla.org/en-US/firefox/?application=firefox'>Trick out your Firefox browser with add-ons</a>."
       },
       {
-        "title": "Navigation Superhero",
-        "description": "<a href='http://toolness.github.io/hackasaurus-parable/navigator-badge/'>Hack your browser</a>"
+        "title": "Navigate like a superhero",
+        "description": "<strong><a href='http://toolness.github.io/hackasaurus-parable/navigator-badge/>Test yourself on web navigation basics</a></strong>. Working with URLs in your navigation bar, copying and pasting text, finding image URLs and more."
       }
     ],
     "teach": {
@@ -71,9 +66,15 @@
         }
       ],
       "more": [
-        {
-          "title": "Share a resource",
-          "description": "Teach navigation skills by adding links, activities or curricula you've had success with in your own work [link]"
+        {  
+          "title": "<a href='/{{ lang }}/mentor'>Become a mentor</a>",
+          "description": "<a href='/{{ lang }}/mentor'>Teach others</a> web navigation, coding and other digital skills.",
+
+          "title": "<a href='/{{ lang }}/make-your-own'>Make your own teaching kit</a>",
+          "description": "<a href='/{{ lang }}/ake-your-own'>Use our templates to make your own teaching kits and activities like these.",
+
+          "title": "<a href='/{{ lang }}/events'>Get together</a>",
+          "description": "<a href='/{{ lang }}/events'>Find or host a webmaker event</a> with others around the world.",
         }
       ]
     }
